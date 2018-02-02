@@ -189,3 +189,6 @@ latex/ods.bbl
 latex/ods.blg
 latex/ods.out
 latex/images/bigoh.tex
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
